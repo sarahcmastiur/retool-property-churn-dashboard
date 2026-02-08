@@ -25,3 +25,5 @@ Repository Contents
 How to Use
 - Import the .json file into your Retool environment.
 - Upload the provided Sample_Data.xlsx
+
+**Link to retool:** https://sarahchristine.retool.com/apps/7f22baf6-0320-11f1-a849-735cad704c5d/Property%20Risk%20Filter/page1
